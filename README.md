@@ -1,4 +1,3 @@
-# BA865_Recycling-with-Deep-Learning
 # Recycling with Deep Learning: A CNN-Based Approach to Waste Classification
 
 ## Table of Contents
